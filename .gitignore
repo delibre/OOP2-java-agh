@@ -1,4 +1,5 @@
 *.class
 *.tgz
 *.bak
-**/*.html
+*.html
+*.zip
