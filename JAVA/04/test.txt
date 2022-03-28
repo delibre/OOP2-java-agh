@@ -1,0 +1,3 @@
+Pierwsza linia tekstu
+druga linia tekstu
+ostatnia linijka tekstu abc
